@@ -1,0 +1,17 @@
+{
+  "images": [
+    {
+      "file_name": "test_images/img_001.jpg",
+      "chairs": [
+        { "bbox": [100, 80, 150, 200], "occupied": true },
+        { "bbox": [300, 90, 140, 210], "occupied": false }
+      ]
+    },
+    {
+      "file_name": "test_images/img_002.jpg",
+      "chairs": [
+        { "bbox": [50, 60, 160, 220], "occupied": false }
+      ]
+    }
+  ]
+}

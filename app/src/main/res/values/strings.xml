@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">NavigatETS</string>
+    <string name="title_home">Home</string>
+    <string name="title_navigate">Navigate</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_chairs">Chaises</string>
+    <string name="title_describe">Description</string>
+    <!-- Object detection UI -->
+    <string name="stop_detection">Arrêter la détection</string>
+    <string name="start_detection">Démarrer la détection</string>
+    <string name="read_list">Lire la liste</string>
+    <string name="stop_reading">Arrêter la lecture</string>
+    <string name="results">Résultats</string>
+    <!-- Chair detection -->
+    <string name="chair_occupied">Chaise occupée</string>
+    <string name="chair_free">Chaise libre</string>
+    <string name="chair_counts">Chaises occupées: %1$d, libres: %2$d</string>
+    <string name="no_chair_detected">Pas de chaise détectée</string>
+    <string name="chair_front">Il y a une chaise libre devant vous</string>
+    <string name="chair_left">Il y a une chaise libre à gauche</string>
+    <string name="chair_right">Il y a une chaise libre à droite</string>
+    <string name="chair_front_occupied">Il y a une chaise devant vous mais elle est occupée</string>
+    <string name="multiple_chairs_hint">Il y a %1$d chaises devant vous. %2$d libres, %3$d occupées.</string>
+    <string name="go_left_for_free">Tournez légèrement à gauche pour une chaise libre</string>
+    <string name="go_right_for_free">Tournez légèrement à droite pour une chaise libre</string>
+    <string name="go_front_for_free">Avancez tout droit pour une chaise libre</string>
+    <!-- Description feature -->
+    <string name="describe_title">Description</string>
+    <string name="describe_photo">Description Photo</string>
+    <string name="describe_video">Description Vidéo</string>
+    <string name="desc_instruction">Tenez le téléphone stable. La photo sera prise dans 10 secondes.</string>
+    <string name="desc_countdown">Photo dans %1$d secondes</string>
+    <string name="desc_capturing">Capture en cours...</string>
+    <string name="desc_analyzing">Analyse de l\'image...</string>
+    <string name="desc_error">Erreur: %1$s</string>
+    <string name="video_desc_ready">Prêt pour la description vidéo</string>
+    <string name="video_desc_start">Démarrer</string>
+    <string name="video_desc_collecting">Enregistrement en cours...</string>
+    <string name="video_desc_analyzing">Analyse de la vidéo...</string>
+    <string name="video_desc_error">Erreur vidéo: %1$s</string>
+    <string name="hold_phone_still">Tenez le téléphone stable pendant 5 secondes</string>
+    <string name="point_to_chair">Veuillez diriger l\'appareil vers une chaise</string>
+    <string name="chair_detection_hint">Pointez la caméra vers une chaise pour commencer</string>
+    <!-- Permissions -->
+    <string name="permission_title">Autorisation requise</string>
+    <string name="permission_camera_rationale">L\'application a besoin de la caméra pour détecter les chaises.</string>
+    <string name="allow">Autoriser</string>
+    <string name="open_settings">Ouvrir les réglages</string>
+    <string name="permission_camera_denied">Vous avez refusé l\'autorisation caméra. Vous pouvez l\'activer dans les réglages.</string>
+    <string name="permission_camera_settings_hint">Activez Caméra dans les autorisations de l\'application, puis revenez et réessayez.</string>
+    <string name="permission_camera_needed_toast">La caméra est nécessaire pour la détection.</string>
+    <!-- Camera availability/error -->
+    <string name="no_camera_title">Caméra indisponible</string>
+    <string name="no_camera_message">Aucune caméra n\'est disponible sur cet appareil.</string>
+    <string name="camera_start_error_title">Erreur caméra</string>
+    <string name="camera_start_error_message">Impossible de démarrer la caméra: %1$s</string>
+</resources>

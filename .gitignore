@@ -1,0 +1,29 @@
+# ------------------------------------
+# Android Studio / IntelliJ IDEA
+# ------------------------------------
+.idea/
+*.iml
+.gradle/
+local.properties
+gradle.properties
+.DS_Store
+
+# ------------------------------------
+# Build / Compilation
+# ------------------------------------
+**/build/
+captures/
+intermediates/
+outputs/
+generated/
+
+# Android-specific files
+*.apk
+*.aab
+*.aar
+
+# ------------------------------------
+# Logs and Temp
+# ------------------------------------
+*.log
+!gradle.log # Exception: sometimes you want to commit an empty placeholder for logs
