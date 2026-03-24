@@ -61,7 +61,7 @@ NavigateTS est une application mobile Android conçue pour aider les personnes m
 ## 📦 Structure du projet
 
 ```
-navigatets-MOISE-TEST3/
+navigatets/
 ├── app/
 │   ├── src/
 │   │   └── main/
@@ -200,7 +200,7 @@ Projet développé dans le cadre d'un projet de recherche à l'ÉTS.
 
 ## 📞 Support
 
-Pour toute question ou problème, veuillez contacter l'équipe de développement de l'ÉTS.
+Pour toute question ou problème, veuillez me contacter.
 
 ## 🔒 Sécurité - Publication sur GitHub
 
